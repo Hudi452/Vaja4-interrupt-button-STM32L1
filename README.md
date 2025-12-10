@@ -1,1 +1,17 @@
 # Vaja4-interrupt-button-STM32L1
+
+ODGOVORI NA VPRAŠANJA:\
+b) Modro tipko lahko uporabimo kot digitalni vhod z interupt. to je pin PA0\
+c) pin za zeleno LED:PC9\
+   pin za modro LED:PC8
+
+Program:\
+c) HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_9);\
+d)fsysclk = 32 MHz\
+delay = 1/(32*10^6) * 10000 = 0,0003125 s \
+e)HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_8);\
+f) HAL_Delay(500);\
+
+Opažanja:/
+e) Prižge se zelena LED
+f)
