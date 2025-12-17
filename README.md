@@ -3,6 +3,9 @@
 PINOUT KONFIGURACIJE:\
 ![konfig](https://github.com/Hudi452/Vaja4-interrupt-button-STM32L1/blob/main/Pinout_konfiguracija.png)
 
+VIDEO DELOVANJA:\
+
+
 ODGOVORI NA VPRAŠANJA:\
 Postopek inicializacije programa:\
 b) Modro tipko lahko uporabimo kot digitalni vhod z interupt. to je pin PA0\
