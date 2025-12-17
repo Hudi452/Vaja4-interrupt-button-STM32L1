@@ -1,6 +1,10 @@
 # Vaja4-interrupt-button-STM32L1
 
+SLIKA KONFIGURACIJE:\
+
+
 ODGOVORI NA VPRAŠANJA:\
+Postopek inicializacije programa:\
 b) Modro tipko lahko uporabimo kot digitalni vhod z interupt. to je pin PA0\
 c) pin za zeleno LED:PC9\
    pin za modro LED:PC8
