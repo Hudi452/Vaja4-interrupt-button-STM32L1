@@ -1,7 +1,7 @@
 # Vaja4-interrupt-button-STM32L1
 
 SLIKA KONFIGURACIJE:\
-
+![konfig](]https://github.com/Hudi452/Vaja4-interrupt-button-STM32L1/blob/main/Pinout_konfiguracija.png)
 
 ODGOVORI NA VPRAŠANJA:\
 Postopek inicializacije programa:\
