@@ -10,8 +10,8 @@ c) HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_9);\
 d)fsysclk = 32 MHz\
 delay = 1/(32*10^6) * 10000 = 0,0003125 s \
 e)HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_8);\
-f) HAL_Delay(500);\
+f) HAL_Delay(500);
 
-Opažanja:/
-e) Ko pritisnemo na tipko se zeleni LED spremeni stanje. Modra LED pa ves čas utripa s frekvenco 1 Hz. To je mogoče zaradi zunanje prekinitve\ 
-f)Ne vpliva na utripanje modre LED zaradi zunanje prekinitve, ki se izvede, ko pritisnemo na modro tipko\
+Opažanja:\
+e) Ko pritisnemo na tipko se zeleni LED spremeni stanje. Modra LED pa ves čas utripa s frekvenco 1 Hz. To je mogoče zaradi zunanje prekinitve.\ 
+f) Ne vpliva na utripanje modre LED zaradi zunanje prekinitve, ki se izvede, ko pritisnemo na modro tipko.
