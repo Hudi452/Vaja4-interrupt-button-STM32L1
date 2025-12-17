@@ -13,5 +13,5 @@ e)HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_8);\
 f) HAL_Delay(500);\
 
 Opažanja:/
-e) Prižge se zelena LED
-f)
+e) Ko pritisnemo na tipko se zeleni LED spremeni stanje. Modra LED pa ves čas utripa s frekvenco 1 Hz. To je mogoče zaradi zunanje prekinitve\ 
+f)Ne vpliva na utripanje modre LED zaradi zunanje prekinitve, ki se izvede, ko pritisnemo na modro tipko\
