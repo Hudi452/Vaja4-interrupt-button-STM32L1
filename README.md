@@ -21,5 +21,5 @@ e)HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_8);\
 f) HAL_Delay(500);
 
 Opažanja:\
-e) Modra LED ves čas utripa s frekvenco 1 Hz. Ko pritisnemo na modro tipko se zeleni LED spremeni stanje. \ 
+e) Modra LED ves čas utripa s frekvenco 1 Hz. Ko pritisnemo na modro tipko se zeleni LED spremeni stanje.\
 f) Pritisk na modro tipko ne vpliva na utripanje modre LED zaradi zunanje prekinitve, ki se izvede, ko pritisnemo na modro tipko. Tako lahko modra LED utripa neodvisno od stanja modre tipke. 
