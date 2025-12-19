@@ -4,7 +4,7 @@ PINOUT KONFIGURACIJE:\
 ![konfig](https://github.com/Hudi452/Vaja4-interrupt-button-STM32L1/blob/main/Pinout_konfiguracija.png)
 
 VIDEO DELOVANJA:\
-
+![video](https://github.com/Hudi452/Vaja4-interrupt-button-STM32L1/blob/main/Vaja4-video-ezgif.com-optimize.gif)
 
 ODGOVORI NA VPRAŠANJA:\
 Postopek inicializacije programa:\
